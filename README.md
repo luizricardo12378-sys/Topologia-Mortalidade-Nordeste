@@ -58,10 +58,3 @@ Tabelas (.docx / .csv): Tabelas demográficas prontas para publicação (formato
 
 Workbook OSF (.xlsx): Uma planilha completa (OSF_Pacote_Completo_Topologia_Mortalidade_NORDESTE_v4.1.xlsx) contendo abas com todas as métricas detalhadas (I², Risco Relativo, Centralidades, Sensibilidade, etc.) pronta para submissão a repositórios de ciência aberta.
 
-🛡️ Privacidade e Ética (LGPD)
-
-O pipeline conta com flags de privacidade (REMOVER_QUASE_IDENTIFICADORES = TRUE) que garantem a anonimização dos dados, removendo municípios e datas exatas dos outputs gerados, em conformidade com as diretrizes de proteção de dados (LGPD).
-
-📄 Licença e Autoria
-
-[Insira aqui as informações de autoria do seu trabalho, grupo de pesquisa e a licença escolhida (ex: MIT, GPL, CC-BY)]
